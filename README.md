@@ -7,7 +7,7 @@ CI/CD to test, build, push and deploy the NodeJS Dokerized app to AWS ECS using 
 
 ## Tech Stack
 
-1. Github
+1. Github-1
 
 This contains our sample nodes application code.
 
